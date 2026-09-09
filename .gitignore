@@ -1,0 +1,119 @@
+# MATLAB
+*.asv
+*.m~
+*.autosave
+
+# Compiled MEX files
+*.mex*
+*.dll
+*.so
+*.dylib
+
+# Build artifacts
+*.o
+*.obj
+*.exe
+
+# MATLAB temporary files
+*.mat~
+slprj/
+codegen/
+
+# Simulink
+*.slxc
+*.mdlp
+*.sldd
+
+# MATLAB caches
+*.mltbx
+*.mlapp.bak
+*.mlappinstall
+
+# Large data files (configure as needed)
+*.fits
+*.fit
+*.hdf5
+*.h5
+*.nc
+
+# Video files
+*.avi
+*.mp4
+*.mov
+*.mj2
+*.mpg
+*.mpeg
+
+# Image sequences (comment out if needed)
+# *.tif
+# *.tiff
+# *.png
+# *.jpg
+# *.jpeg
+
+# Results and output
+results/
+output/
+figures/
+*.pdf
+*.eps
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# Editor backups
+*.swp
+*.swo
+*~
+
+# Python (if using mixed Python-MATLAB)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.venv/
+venv/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Documentation build
+docs/_build/
+docs/html/
+docs/latex/
+
+# Testing
+coverage/
+.coverage
+htmlcov/
+
+# Temporary data
+tmp/
+temp/
+cache/
+
+# Logs
+*.log
+logs/
+
+# Archives (optional - uncomment if not tracking)
+# *.zip
+# *.tar
+# *.tar.gz
+# *.rar
+# *.7z
